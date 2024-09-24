@@ -72,7 +72,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/williamClaudio1610/williamClaudio1610/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/williamClaudio1610/williamClaudio1610/output/snake.svg" alt="Snake animation" />
 
 ###
 
