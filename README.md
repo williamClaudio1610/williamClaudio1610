@@ -2,6 +2,14 @@
 
 ###
 
+<h2 align="left">About me...</h2>
+
+###
+
+<h3 align="left">👋 Hi, I'm Eng. WIlliam Azevedo<br><br>💻 Full-Stack Developer specializing in Angular and C#/.NET<br>📚 Currently diving deeper into DevOps<br>🌱 Always learning something new and sharing it on GitHub<br>💼 Open to work on exciting projects or collaborations, whether freelance or full-time opportunities!<br><br>Below you can see my Social Media !</h3>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
