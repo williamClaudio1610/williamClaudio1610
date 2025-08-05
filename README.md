@@ -6,7 +6,12 @@
 
 ###
 
-<h3 align="left">👋 Hi, I'm Eng. WIlliam Azevedo<br><br>💻 Full-Stack Developer specializing in Angular and C#/.NET<br>📚 Currently diving deeper into DevOps<br>🌱 Always learning something new and sharing it on GitHub<br>💼 Open to work on exciting projects or collaborations, whether freelance or full-time opportunities!<br><br>Below you can see my Social Media !</h3>
+<h3 align="left">👋 Hi, I'm Eng. William Azevedo</h3>
+
+💻 Full-Stack Developer with a strong focus on Backend (NestJS, .NET, Spring Boot)  
+🌐 Solid experience with Angular for building modern frontends
+🚀 Passionate about building scalable and reliable platforms  
+🤝 Open to collaborations, freelance projects, or full-time opportunities
 
 ###
 
@@ -24,7 +29,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="center">Techs</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
